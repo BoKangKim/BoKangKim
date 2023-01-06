@@ -8,3 +8,8 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoKangKim&layout=compact&theme=gotham)
 </div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoKangKim&theme=gotham)
+</div>
