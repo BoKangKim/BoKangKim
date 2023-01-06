@@ -11,5 +11,5 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoKangKim&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoKangKim&theme=nord_dark)
 </div>
